@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorSecondary">#0E29C1</color>
+    <color name="colorSecondaryVariant">#485DD1</color>
+    <color name="colorPrimaryVariant">#6D83FF</color>
+    <color name="colorPrimary">#3F5CFF</color>
+    <color name="colorBorder">#E0E0E0</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#686868</color>
+    <color name="buttonColor">#3F5CFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+
+</resources>

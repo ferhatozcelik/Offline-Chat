@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Offline Chat</string>
+    <string name="oda_ad_giriniz">Enter Name Surname</string>
+    <string name="sohbet_odas_olu_tur">Create Chat</string>
+    <string name="evrimi_i_cihazlar">Online Users</string>
+    <string name="yenile">Discover Users</string>
+    <string name="please_room_name_alert">Please Enter Name Surname!</string>
+    <string name="bir_eyler_yaz_n_z">write something</string>
+    <string name="g_nder">Send</string>
+    <string name="server_closed_the_con">Server Closed the Connection!</string>
+    <string name="not_able_to_connect">Not able to connect!</string>
+    <string name="connected_to">Connected to</string>
+    <string name="discover_user">Discover Users</string>
+    <string name="server_stared">Server started</string>
+    <string name="joined">Joined</string>
+    <string name="server_stared_at">"Server started at "</string>
+    <string name="error">\"Error: \"</string>
+    <string name="leave">\" Left\"</string>
+</resources>

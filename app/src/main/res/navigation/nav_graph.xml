@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        tools:layout="@layout/activity_main"
+        android:name="org.turkiye.offlinechat.ui.fragments.main.MainFragment"
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_serverFragment"
+            app:destination="@id/serverFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"
+            app:popUpTo="@id/mainFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_clientFragment"
+            app:destination="@id/clientFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"
+            app:popUpTo="@id/mainFragment"/>
+    </fragment>
+    <fragment
+        android:id="@+id/serverFragment"
+        android:name="org.turkiye.offlinechat.ui.fragments.server.ServerFragment"
+        android:label="ServerFragment" />
+    <fragment
+        android:id="@+id/clientFragment"
+        android:name="org.turkiye.offlinechat.ui.fragments.client.ClientFragment"
+        android:label="ClientFragment" />
+
+
+</navigation>

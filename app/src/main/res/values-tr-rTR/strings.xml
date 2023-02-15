@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Offline Chat</string>
+    <string name="oda_ad_giriniz">Adı Soyadı Giriniz</string>
+    <string name="sohbet_odas_olu_tur">Sohbet Odası Oluştur</string>
+    <string name="evrimi_i_cihazlar">Çevrimiçi Kullanıcılar</string>
+    <string name="yenile">Kullanıcı Keşfet</string>
+    <string name="please_room_name_alert">Lütfen Adı Soyadı Giriniz!</string>
+    <string name="bir_eyler_yaz_n_z">Bir şeyler yazınız</string>
+    <string name="g_nder">Gönder</string>
+    <string name="server_closed_the_con">Sohbet kapatıldı!</string>
+    <string name="not_able_to_connect">bağlanamıyor!</string>
+    <string name="connected_to">Bağlandı</string>
+    <string name="discover_user">Kullanıcıları Keşfet</string>
+    <string name="server_stared">Sohbet başladı</string>
+    <string name="joined">Katıldı</string>
+    <string name="server_stared_at">"Sohbeti başlattı "</string>
+    <string name="error">\"Hata Oluştu: \"</string>
+    <string name="leave">\" Sohbeti sonlandırdı\"</string>
+</resources>
