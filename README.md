@@ -42,7 +42,7 @@ This app uses [MVVM (Model View View-Model)] architecture.
 
 ### Screenshots
 
-|<img src="screenshots/screenshot_01.jpg" width="280" height="600">|<img src="screenshots/screenshot_02.jpg" width="280" height="600">|
+|<img src="screenshots/screenshot_01.png" width="280" height="600">|<img src="screenshots/screenshot_02.png" width="280" height="600">|
 
 ### Author
 👤 Ferhat OZCELIK
