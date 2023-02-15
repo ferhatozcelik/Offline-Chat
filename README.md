@@ -1,6 +1,8 @@
 # Offline Chat
 #### With the Android P2P tool, devices connected to the same network create a user server, that is, client users connected to the chat room can see all chat rooms, then connect and start the chat 🏗
 
+### Release
+https://github.com/ferhatozcelik/Offline-Chat/releases/download/Release-1.0.0/app-release.apk
 
 ### Tasks
 - [ ] Introduction screen: Opening a hotspot, creating a chat and connecting to a chat https://github.com/AppIntro/AppIntro | create:👤 Ferhat OZCELIK
