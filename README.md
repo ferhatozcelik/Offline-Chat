@@ -38,6 +38,7 @@ https://github.com/ferhatozcelik/Offline-Chat/releases/download/Release-1.0.0/ap
 
 ### Project Architecture 🗼
 
+
 This app uses [MVVM (Model View View-Model)] architecture.
 
 ### Screenshots
